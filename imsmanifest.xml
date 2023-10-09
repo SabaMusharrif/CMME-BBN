@@ -1,13 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_5wrAmpaa8lq" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6lMuFC4vKWl" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">CMME-BBN-v1</langstring>
+          <langstring xml:lang="x-none">CMME-BBN-v11</langstring>
         </title>
+        <description>
+          <langstring xml:lang="x-none">intro slides removed; same gender added; seekbar enabled exported 101023</langstring>
+        </description>
       </general>
       <lifecycle>
         <version>
@@ -50,29 +53,22 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="CMME-BBN-v1_ORG">
-    <organization identifier="CMME-BBN-v1_ORG">
-      <title>CMME-BBN-v1</title>
-      <item identifier="CMME-ES_SCO" isvisible="true" identifierref="__5wrAmpaa8lq_RES">
-        <title>CMME-BBN-v1</title>
+  <organizations default="CMME-BBN-v11_ORG">
+    <organization identifier="CMME-BBN-v11_ORG">
+      <title>CMME-BBN-v11</title>
+      <item identifier="CMME-ES_SCO" isvisible="true" identifierref="__6lMuFC4vKWl_RES">
+        <title>CMME-BBN-v11</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__5wrAmpaa8lq_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6lMuFC4vKWl_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/6OG0ILx2u0o.png" />
       <file href="story_content/5xOa6THIKih_44100_48_0.mp3" />
       <file href="mobile/5vC6DvUDdcQ.png" />
       <file href="mobile/5vC6DvUDdcQ_P_0_0_459_1863.png" />
-      <file href="mobile/5rrCkBOBxX2_F3FBFE_P_162_149_1743_1215.png" />
-      <file href="story_content/6BBZTqdYFfS_44100_48_0.mp3" />
-      <file href="mobile/6SoNbd1R6uf.png" />
-      <file href="mobile/5aElE3WSmqw.png" />
-      <file href="mobile/6HjJg5raYlf.png" />
       <file href="mobile/6816zfw1Mi4.png" />
-      <file href="mobile/64lmWHilr0Y.png" />
-      <file href="story_content/6Zj8FSQiWZm_44100_48_0.mp3" />
       <file href="story_content/67HSGNdDkOx_44100_48_0.mp3" />
       <file href="story_content/5gLSLzD9rY5_44100_48_0.mp3" />
       <file href="mobile/61TBIVHfIph.png" />
@@ -119,13 +115,14 @@
       <file href="mobile/6CTeZVVnbJJ.png" />
       <file href="mobile/6cHNNRISxP7.png" />
       <file href="story_content/6mLJcy2wWKr_44100_48_0.mp3" />
-      <file href="mobile/5eOOL3cpC6n.png" />
+      <file href="mobile/6Y0s5Bwo9sG.png" />
       <file href="mobile/6T1praEZVKj_X.png" />
       <file href="mobile/5ep2PMDCXwY.png" />
       <file href="mobile/5WykvaAH0UA_P_154_104_358_206.png" />
       <file href="mobile/61nG4aZ69zl.png" />
       <file href="mobile/6LwUOwhLRqW.png" />
       <file href="mobile/6lNMBSv8Opj.png" />
+      <file href="mobile/64lmWHilr0Y.png" />
       <file href="story_content/5uWp0zchsYQ_44100_48_0.mp3" />
       <file href="mobile/6ZQvET3mskc_P_1662_419_341_557.png" />
       <file href="mobile/6qS99MRBeAM.png" />
@@ -135,7 +132,7 @@
       <file href="story_content/5eyzYjU3nxV_44100_48_0.mp3" />
       <file href="story_content/5owOQlPMlYg_44100_48_0.mp3" />
       <file href="mobile/5lzKXWNlnwr.png" />
-      <file href="mobile/6XBEUhUadxI.png" />
+      <file href="mobile/5wjMa7BkHDb.png" />
       <file href="mobile/6NUcPE7erDe.png" />
       <file href="mobile/65dYEB6o0pw.png" />
       <file href="mobile/6UKtmVRqF0S.png" />
@@ -1114,7 +1111,6 @@
       <file href="html5/data/js/5b8Q2KPUTdD.js" />
       <file href="html5/data/js/5eFQ78l8gD7.js" />
       <file href="html5/data/js/5hy2EUqFLwY.js" />
-      <file href="html5/data/js/5ikIgzKdfPN.js" />
       <file href="html5/data/js/5ilYBjQR1Uy.js" />
       <file href="html5/data/js/5iPbBHzpM0v.js" />
       <file href="html5/data/js/5p1ZevuDWMf.js" />
@@ -1126,7 +1122,6 @@
       <file href="html5/data/js/5wSOvkXQ0xY.js" />
       <file href="html5/data/js/62l29lKr6nP.js" />
       <file href="html5/data/js/63mdEI009BV.js" />
-      <file href="html5/data/js/67J2mmGw8iK.js" />
       <file href="html5/data/js/6AlHgwDzoP3.js" />
       <file href="html5/data/js/6ctiTPgW5mg.js" />
       <file href="html5/data/js/6dnEHItWOJw.js" />
